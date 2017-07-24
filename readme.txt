@@ -1,2 +1,2 @@
-﻿1.ldldlfdlfldf
-2.flllfasldflasfal
+﻿Git is a distributed version control system.
+Git is free software.
